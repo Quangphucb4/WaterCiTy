@@ -1,0 +1,34 @@
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Service\WaterCity.Contract.Service\bin\Debug\net6.0\WaterCity.Contract.Service.deps.json
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Service\WaterCity.Contract.Service\bin\Debug\net6.0\WaterCity.Contract.Service.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Service\WaterCity.Contract.Service\bin\Debug\net6.0\WaterCity.Contract.Service.pdb
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Service\WaterCity.Contract.Service\bin\Debug\net6.0\WaterCity.Contract.Repository.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Service\WaterCity.Contract.Service\bin\Debug\net6.0\WaterCity.Core.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Service\WaterCity.Contract.Service\bin\Debug\net6.0\WaterCity.Core.pdb
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Service\WaterCity.Contract.Service\bin\Debug\net6.0\WaterCity.Contract.Repository.pdb
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Service\WaterCity.Contract.Service\obj\Debug\net6.0\WaterCity.Contract.Service.csproj.AssemblyReference.cache
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Service\WaterCity.Contract.Service\obj\Debug\net6.0\WaterCity.Contract.Service.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Service\WaterCity.Contract.Service\obj\Debug\net6.0\WaterCity.Contract.Service.AssemblyInfoInputs.cache
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Service\WaterCity.Contract.Service\obj\Debug\net6.0\WaterCity.Contract.Service.AssemblyInfo.cs
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Service\WaterCity.Contract.Service\obj\Debug\net6.0\WaterCity.Contract.Service.csproj.CoreCompileInputs.cache
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Service\WaterCity.Contract.Service\obj\Debug\net6.0\WaterCity.Contract.Service.csproj.CopyComplete
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Service\WaterCity.Contract.Service\obj\Debug\net6.0\WaterCity.Contract.Service.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Service\WaterCity.Contract.Service\obj\Debug\net6.0\refint\WaterCity.Contract.Service.dll
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Service\WaterCity.Contract.Service\obj\Debug\net6.0\WaterCity.Contract.Service.pdb
+C:\Users\AN515-57\OneDrive\Desktop\project\2 ki sau\nhamaynuoc\src\Service\WaterCity.Contract.Service\obj\Debug\net6.0\ref\WaterCity.Contract.Service.dll
+D:\Desktop\src\Service\WaterCity.Contract.Service\bin\Debug\net6.0\WaterCity.Contract.Service.deps.json
+D:\Desktop\src\Service\WaterCity.Contract.Service\bin\Debug\net6.0\WaterCity.Contract.Service.dll
+D:\Desktop\src\Service\WaterCity.Contract.Service\bin\Debug\net6.0\WaterCity.Contract.Service.pdb
+D:\Desktop\src\Service\WaterCity.Contract.Service\bin\Debug\net6.0\WaterCity.Contract.Repository.dll
+D:\Desktop\src\Service\WaterCity.Contract.Service\bin\Debug\net6.0\WaterCity.Core.dll
+D:\Desktop\src\Service\WaterCity.Contract.Service\bin\Debug\net6.0\WaterCity.Core.pdb
+D:\Desktop\src\Service\WaterCity.Contract.Service\bin\Debug\net6.0\WaterCity.Contract.Repository.pdb
+D:\Desktop\src\Service\WaterCity.Contract.Service\obj\Debug\net6.0\WaterCity.Contract.Service.csproj.AssemblyReference.cache
+D:\Desktop\src\Service\WaterCity.Contract.Service\obj\Debug\net6.0\WaterCity.Contract.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\Desktop\src\Service\WaterCity.Contract.Service\obj\Debug\net6.0\WaterCity.Contract.Service.AssemblyInfoInputs.cache
+D:\Desktop\src\Service\WaterCity.Contract.Service\obj\Debug\net6.0\WaterCity.Contract.Service.AssemblyInfo.cs
+D:\Desktop\src\Service\WaterCity.Contract.Service\obj\Debug\net6.0\WaterCity.Contract.Service.csproj.CoreCompileInputs.cache
+D:\Desktop\src\Service\WaterCity.Contract.Service\obj\Debug\net6.0\WaterCity.Contract.Service.csproj.CopyComplete
+D:\Desktop\src\Service\WaterCity.Contract.Service\obj\Debug\net6.0\WaterCity.Contract.Service.dll
+D:\Desktop\src\Service\WaterCity.Contract.Service\obj\Debug\net6.0\refint\WaterCity.Contract.Service.dll
+D:\Desktop\src\Service\WaterCity.Contract.Service\obj\Debug\net6.0\WaterCity.Contract.Service.pdb
+D:\Desktop\src\Service\WaterCity.Contract.Service\obj\Debug\net6.0\ref\WaterCity.Contract.Service.dll

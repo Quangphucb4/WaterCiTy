@@ -1,0 +1,11 @@
+2023-07-27T16:11:40.6611129+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:5000"
+2023-07-27T16:11:40.7198272+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5001"
+2023-07-27T16:11:40.7240882+07:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-07-27T16:11:40.7252506+07:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-07-27T16:11:40.7261822+07:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "D:\Desktop\src\Web\WaterCity.WebApi\"
+2023-07-27T16:22:38.6477549+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "https://localhost:5000"
+2023-07-27T16:22:38.6972426+07:00 [INF] (Microsoft.Hosting.Lifetime) Now listening on: "http://localhost:5001"
+2023-07-27T16:22:38.7020672+07:00 [INF] (Microsoft.Hosting.Lifetime) Application started. Press Ctrl+C to shut down.
+2023-07-27T16:22:38.7033289+07:00 [INF] (Microsoft.Hosting.Lifetime) Hosting environment: "Development"
+2023-07-27T16:22:38.7042719+07:00 [INF] (Microsoft.Hosting.Lifetime) Content root path: "D:\Desktop\src\Web\WaterCity.WebApi\"
+2023-07-27T16:23:19.5697464+07:00 [INF] (Serilog.AspNetCore.RequestLoggingMiddleware) HTTP "POST" "/api/loai-mon/add" responded 200 in 1323.5202 ms
